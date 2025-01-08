@@ -1,3 +1,4 @@
+i am extendiing file
 
-i am adding to file
-i am adding newfile
+i amm appending to newfie.txt
+we are  using echo for adding to  particular file
